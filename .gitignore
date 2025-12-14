@@ -1,0 +1,30 @@
+# build 
+build/
+*.o
+*.so
+*.a
+
+# BPF generated files
+src/ebpf/vmlinux.h
+*.skel.h
+
+# Profiler outputs
+*.coz
+*.prof
+*.perf.data
+
+# dumb editor stuff
+.vscode/
+*.swp
+*.swo
+*~
+
+# dumb mac stuff
+.DS_Store
+
+# if we ever create benchmarks...
+benchmarks/*.out
+benchmarks/profile*
+
+# misc
+docs/
