@@ -1,6 +1,6 @@
 # eBCOZ: Cross-Layer Causal Profiler
 
-eBCOZ extends BCOZ’s causal profiling to async workloads while removing the patched-kernel dependency. eBPF collects blocked samples; the original perf_event path remains as a fallback.
+eBCOZ extends BCOZ’s causal profiling to async workloads while removing the patched-kernel dependency.
 
 ## Status
 - eBPF integration is wired into the profiler; blocked samples flow via sched_switch. Block classification still needs CO-RE reads for IOWAIT/futex, ... and user stacks are currently disabled to avoid stalls
