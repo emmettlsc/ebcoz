@@ -1,0 +1,580 @@
+startup	time=1765767591492051434
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:154	speedup=0.15	duration=50059675	selected-samples=0	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=0
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=100021367	selected-samples=10	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=2
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.45	duration=190159136	selected-samples=22	delay=9900000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=2
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.35	duration=385711235	selected-samples=41	delay=14350000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=5
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=400063169	selected-samples=41	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=4
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800058420	selected-samples=89	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800067678	selected-samples=87	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.80	duration=731259822	selected-samples=86	delay=68800000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=10
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=799262076	selected-samples=85	delay=800000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.35	duration=769609030	selected-samples=87	delay=30450000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.40	duration=764003376	selected-samples=85	delay=36057549
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=9
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	speedup=0.90	duration=739760593	selected-samples=67	delay=60300000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.15	duration=787157889	selected-samples=86	delay=12900000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.45	duration=762709452	selected-samples=83	delay=37350000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=9
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.05	duration=795003116	selected-samples=84	delay=5055384
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800062768	selected-samples=88	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.45	duration=761362918	selected-samples=86	delay=38700000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.95	duration=711633528	selected-samples=87	delay=88429370
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.15	duration=787309852	selected-samples=85	delay=12750000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=799760743	selected-samples=87	delay=300000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800060844	selected-samples=84	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.85	duration=725258859	selected-samples=88	delay=74800000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.35	duration=758104505	selected-samples=86	delay=41957050
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.70	duration=741258940	selected-samples=84	delay=58800000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.75	duration=729351682	selected-samples=85	delay=70706507
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=1.00	duration=713058348	selected-samples=87	delay=87000000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.05	duration=788904278	selected-samples=85	delay=11156685
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=9
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	speedup=0.25	duration=783561644	selected-samples=66	delay=16500000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.05	duration=795860913	selected-samples=84	delay=4200000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.90	duration=721258059	selected-samples=87	delay=78805629
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=786533231	selected-samples=82	delay=13500000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800064981	selected-samples=85	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+runtime	time=800092192
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:52	count=31
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	count=2066
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	count=2635
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:86	count=1
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:154	count=14
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=1.00	duration=713059651	selected-samples=87	delay=87000000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=1.00	duration=702102381	selected-samples=84	delay=97957179
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800060292	selected-samples=85	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800063899	selected-samples=89	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=9
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800058929	selected-samples=85	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.20	duration=782260442	selected-samples=89	delay=17800000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.10	duration=789999559	selected-samples=87	delay=10060512
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.15	duration=786505490	selected-samples=84	delay=13555833
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=797944482	selected-samples=88	delay=2100000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800048660	selected-samples=87	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=9
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	speedup=0.25	duration=783058018	selected-samples=68	delay=17000000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.95	duration=719309239	selected-samples=85	delay=80750000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.05	duration=782553466	selected-samples=85	delay=17507426
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.50	duration=756303198	selected-samples=87	delay=43755600
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=9
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	speedup=0.00	duration=800060621	selected-samples=67	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.80	duration=731260300	selected-samples=86	delay=68800000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.95	duration=717401745	selected-samples=82	delay=82657073
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.50	duration=749977313	selected-samples=87	delay=50087165
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800059960	selected-samples=84	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.20	duration=783442126	selected-samples=83	delay=16600000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	speedup=0.00	duration=800059188	selected-samples=70	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	speedup=0.00	duration=800061273	selected-samples=56	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800059319	selected-samples=75	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.50	duration=764562444	selected-samples=71	delay=35500000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.60	duration=749502319	selected-samples=81	delay=50557200
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.25	duration=777203782	selected-samples=70	delay=22856458
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800065990	selected-samples=71	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.70	duration=745458948	selected-samples=78	delay=54600000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=793759558	selected-samples=78	delay=6300000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.15	duration=788060200	selected-samples=80	delay=12000000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=799311973	selected-samples=83	delay=750000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800060540	selected-samples=73	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+runtime	time=800085948
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:52	count=64
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	count=4229
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	count=5459
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:86	count=2
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:154	count=30
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.20	duration=785858195	selected-samples=71	delay=14200000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.70	duration=752801998	selected-samples=67	delay=47256078
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.05	duration=794152116	selected-samples=63	delay=5907011
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.35	duration=772954066	selected-samples=77	delay=27105923
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.15	duration=785902728	selected-samples=76	delay=14155929
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800060830	selected-samples=80	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.80	duration=744863304	selected-samples=69	delay=55200000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.25	duration=780810299	selected-samples=77	delay=19250000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.55	duration=755101824	selected-samples=75	delay=44957484
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.65	duration=745001244	selected-samples=78	delay=55061240
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=1.00	duration=717902455	selected-samples=77	delay=82156783
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.70	duration=744765539	selected-samples=79	delay=55300000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.60	duration=756258526	selected-samples=73	delay=43800000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.90	duration=720605026	selected-samples=80	delay=79456515
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=789261952	selected-samples=71	delay=10800000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	speedup=0.25	duration=787059077	selected-samples=52	delay=13000000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800060039	selected-samples=77	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=1.00	duration=722058215	selected-samples=78	delay=78000000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.85	duration=728752285	selected-samples=71	delay=71307142
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800063425	selected-samples=79	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.75	duration=746063564	selected-samples=72	delay=54000000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.15	duration=784656047	selected-samples=83	delay=15406966
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.35	duration=775355338	selected-samples=69	delay=24706123
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=796210077	selected-samples=76	delay=3850000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.40	duration=769662502	selected-samples=76	delay=30400000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.25	duration=783309236	selected-samples=67	delay=16750000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.40	duration=768816726	selected-samples=78	delay=31200000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800059687	selected-samples=77	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800059677	selected-samples=76	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	speedup=0.25	duration=787559396	selected-samples=51	delay=12500000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.10	duration=792458485	selected-samples=76	delay=7600000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.90	duration=732563263	selected-samples=75	delay=67500000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+runtime	time=800087128
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:52	count=93
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	count=6199
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	count=8039
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:86	count=2
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:154	count=32
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=796460508	selected-samples=74	delay=3600000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.50	duration=760058214	selected-samples=80	delay=40000000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.05	duration=793052662	selected-samples=71	delay=7008578
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.20	duration=783402835	selected-samples=82	delay=16655699
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.45	duration=768502292	selected-samples=68	delay=31555983
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.05	duration=796109606	selected-samples=79	delay=3950000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800061711	selected-samples=78	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.55	duration=758260748	selected-samples=76	delay=41800000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.05	duration=794751892	selected-samples=64	delay=5309377
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.50	duration=761052575	selected-samples=77	delay=39006029
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=796559896	selected-samples=72	delay=3500000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.30	duration=781757532	selected-samples=61	delay=18300000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.85	duration=736002756	selected-samples=74	delay=64057371
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.35	duration=765502588	selected-samples=77	delay=34558270
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.45	duration=761953713	selected-samples=77	delay=38107245
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=798257993	selected-samples=76	delay=1800000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	speedup=0.40	duration=776859274	selected-samples=58	delay=23200000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.15	duration=788359906	selected-samples=78	delay=11700000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.65	duration=746956026	selected-samples=79	delay=53105814
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=795510427	selected-samples=67	delay=4550000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.80	duration=738461088	selected-samples=77	delay=61600000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.20	duration=784458964	selected-samples=78	delay=15600000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	speedup=0.85	duration=756708644	selected-samples=51	delay=43350000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800060056	selected-samples=75	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.25	duration=780561399	selected-samples=78	delay=19500000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.45	duration=762303317	selected-samples=74	delay=37756078
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=795559425	selected-samples=62	delay=4500000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.65	duration=746759895	selected-samples=82	delay=53300000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.25	duration=777803949	selected-samples=84	delay=22256006
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.80	duration=738903605	selected-samples=74	delay=61157552
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.85	duration=732303194	selected-samples=76	delay=67755749
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.60	duration=748302170	selected-samples=75	delay=51757725
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+runtime	time=800085253
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:52	count=136
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	count=8167
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	count=10613
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:86	count=2
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:96	count=1
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:154	count=37
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=798262710	selected-samples=71	delay=1800000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.35	duration=771358463	selected-samples=82	delay=28700000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=797613321	selected-samples=76	delay=2450000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800059995	selected-samples=77	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800059244	selected-samples=77	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.80	duration=741661789	selected-samples=73	delay=58400000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.90	duration=744260326	selected-samples=62	delay=55800000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.45	duration=758256300	selected-samples=85	delay=41806190
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=796460937	selected-samples=82	delay=3600000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.85	duration=740559675	selected-samples=70	delay=59500000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800058683	selected-samples=77	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.30	duration=777261789	selected-samples=76	delay=22800000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.20	duration=784459144	selected-samples=78	delay=15600000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.50	duration=759205389	selected-samples=81	delay=40856679
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.45	duration=766101223	selected-samples=70	delay=33956808
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=794664793	selected-samples=74	delay=5400000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.85	duration=735459955	selected-samples=76	delay=64600000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.50	duration=762061547	selected-samples=76	delay=38000000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.50	duration=759560015	selected-samples=81	delay=40500000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	speedup=0.00	duration=800059844	selected-samples=52	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.60	duration=764059123	selected-samples=60	delay=36000000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800058978	selected-samples=78	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	speedup=0.55	duration=770910961	selected-samples=53	delay=29150000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	speedup=0.60	duration=767659568	selected-samples=55	delay=32400000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.80	duration=740849680	selected-samples=74	delay=59200000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=798459981	selected-samples=77	delay=1600000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800060933	selected-samples=65	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.45	duration=764959612	selected-samples=78	delay=35100000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.85	duration=734202950	selected-samples=77	delay=65856041
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.20	duration=784663692	selected-samples=77	delay=15400000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.65	duration=750008683	selected-samples=77	delay=50050000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.05	duration=796259486	selected-samples=76	delay=3800000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+runtime	time=800084804
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:52	count=177
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	count=10144
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:66	count=1
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	count=13247
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:86	count=2
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:96	count=1
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:154	count=37
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.80	duration=743304201	selected-samples=70	delay=56755717
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.35	duration=767405455	selected-samples=82	delay=32656888
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.30	duration=773202127	selected-samples=78	delay=26857212
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=796458187	selected-samples=76	delay=3600000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.60	duration=753860483	selected-samples=77	delay=46200000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.30	duration=778760504	selected-samples=71	delay=21300000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.15	duration=786603502	selected-samples=80	delay=13456030
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.35	duration=772350487	selected-samples=78	delay=27707985
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800061649	selected-samples=75	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.30	duration=777560739	selected-samples=75	delay=22500000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=794960969	selected-samples=76	delay=5100000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800064687	selected-samples=75	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.20	duration=784260842	selected-samples=79	delay=15800000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.55	duration=761559480	selected-samples=70	delay=38500000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.90	duration=727503196	selected-samples=77	delay=72555904
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.90	duration=723605580	selected-samples=77	delay=76456387
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.55	duration=748952372	selected-samples=75	delay=51108122
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.70	duration=743999844	selected-samples=77	delay=56061202
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.50	duration=761558623	selected-samples=77	delay=38500000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800061941	selected-samples=71	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.30	duration=774859668	selected-samples=84	delay=25200000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.10	duration=789803093	selected-samples=70	delay=10256955
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.60	duration=753101868	selected-samples=75	delay=46956068
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.85	duration=734609489	selected-samples=77	delay=65450000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.10	duration=778350346	selected-samples=73	delay=21707882
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=799357938	selected-samples=75	delay=700000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	speedup=0.00	duration=800058220	selected-samples=49	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.10	duration=792462047	selected-samples=76	delay=7600000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.10	duration=791906800	selected-samples=75	delay=8155820
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.65	duration=755448085	selected-samples=67	delay=44610398
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.65	duration=741600537	selected-samples=72	delay=58460151
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.25	duration=777303618	selected-samples=73	delay=22756459
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+runtime	time=800087658
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:52	count=216
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	count=12118
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:66	count=1
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	count=15816
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:86	count=2
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:96	count=2
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:154	count=43
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=798812033	selected-samples=62	delay=1250000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=1.00	duration=721059559	selected-samples=79	delay=79000000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.55	duration=744303454	selected-samples=76	delay=55756096
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=796209951	selected-samples=76	delay=3850000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	speedup=0.10	duration=794960022	selected-samples=51	delay=5100000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.10	duration=792358630	selected-samples=77	delay=7700000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800060194	selected-samples=68	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800061618	selected-samples=78	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800062420	selected-samples=76	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.70	duration=746159806	selected-samples=77	delay=53900000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.40	duration=768865408	selected-samples=78	delay=31200000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.20	duration=786263314	selected-samples=69	delay=13800000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.25	duration=776953637	selected-samples=79	delay=23106022
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=1.00	duration=713102691	selected-samples=85	delay=86955967
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.90	duration=728901650	selected-samples=68	delay=71159313
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.40	duration=768859602	selected-samples=78	delay=31200000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	speedup=0.90	duration=751462047	selected-samples=54	delay=48600000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	speedup=0.00	duration=800064604	selected-samples=64	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800065946	selected-samples=78	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800057751	selected-samples=69	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.90	duration=726262332	selected-samples=82	delay=73800000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=799160389	selected-samples=74	delay=900000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.45	duration=768559888	selected-samples=70	delay=31500000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	speedup=0.30	duration=784463376	selected-samples=52	delay=15600000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800061232	selected-samples=77	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.55	duration=757709460	selected-samples=77	delay=42350000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.35	duration=772761275	selected-samples=78	delay=27300000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.85	duration=737901578	selected-samples=67	delay=62156942
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800059704	selected-samples=84	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=9
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.45	duration=761360986	selected-samples=86	delay=38700000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.30	duration=774905370	selected-samples=75	delay=25156610
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=799759105	selected-samples=77	delay=300000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+runtime	time=800086065
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:52	count=244
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	count=14086
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:66	count=1
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	count=18394
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:86	count=2
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:96	count=2
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:154	count=57
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.10	duration=792759226	selected-samples=73	delay=7300000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.25	duration=779981134	selected-samples=77	delay=20079686
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=796810330	selected-samples=82	delay=3250000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.45	duration=770361041	selected-samples=66	delay=29700000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.75	duration=742504904	selected-samples=75	delay=57556450
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.10	duration=788002575	selected-samples=76	delay=12057838
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.15	duration=787875390	selected-samples=75	delay=12184643
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=799307829	selected-samples=70	delay=750000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.45	duration=768112068	selected-samples=71	delay=31950000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	speedup=0.80	duration=768859995	selected-samples=39	delay=31200000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:52	speedup=1.00	duration=798060286	selected-samples=2	delay=2000000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800061019	selected-samples=78	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800061030	selected-samples=70	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800062303	selected-samples=77	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.05	duration=796608016	selected-samples=69	delay=3450000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	speedup=0.95	duration=761111123	selected-samples=41	delay=38950000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.85	duration=736310352	selected-samples=75	delay=63750000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800058829	selected-samples=80	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800059682	selected-samples=69	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800060916	selected-samples=79	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.10	duration=792261838	selected-samples=78	delay=7800000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=799058153	selected-samples=76	delay=1000000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800061129	selected-samples=79	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.80	duration=737659176	selected-samples=78	delay=62400000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.25	duration=762605776	selected-samples=86	delay=37458030
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.80	duration=734461001	selected-samples=82	delay=65600000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	speedup=0.15	duration=793609598	selected-samples=44	delay=6450000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=7
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.00	duration=800058598	selected-samples=79	delay=0
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.70	duration=746861305	selected-samples=76	delay=53200000
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.70	duration=736404207	selected-samples=75	delay=63656026
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.45	duration=759858044	selected-samples=77	delay=40206628
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=8
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=1.00	duration=722651578	selected-samples=77	delay=77407935
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=6
+runtime	time=800094589
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:52	count=285
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	count=15960
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:66	count=1
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	count=20958
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:86	count=3
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:96	count=2
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:154	count=58
+experiment	selected=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	speedup=0.85	duration=0	selected-samples=37	delay=6873330374
+throughput-point	name=test_motivational_case2_bcoz.c:85	delta=3
+runtime	time=217466704017
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:52	count=285
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:57	count=15987
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:66	count=1
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:78	count=21005
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:86	count=3
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:96	count=2
+samples	location=/home/emmett/blocked_samples/osdi24_ae/benchmarks/motivational/src/test_motivational_case2_bcoz.c:154	count=58

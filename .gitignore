@@ -9,7 +9,6 @@ src/ebpf/vmlinux.h
 *.skel.h
 
 # Profiler outputs
-*.coz
 *.prof
 *.perf.data
 
